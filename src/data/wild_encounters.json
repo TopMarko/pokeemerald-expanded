@@ -1164,32 +1164,32 @@
               },
               {
                 "min_level": 16,
-                "max_level": 16,
+                "max_level": 18,
                 "species": "SPECIES_LOMBRE"
               },
               {
-                "min_level": 16,
-                "max_level": 16,
-                "species": "SPECIES_SEVIPER"
-              },
-              {
-                "min_level": 18,
-                "max_level": 18,
-                "species": "SPECIES_ZANGOOSE"
-              },
-              {
-                "min_level": 17,
+                "min_level": 15,
                 "max_level": 17,
                 "species": "SPECIES_SEVIPER"
               },
               {
                 "min_level": 15,
-                "max_level": 15,
+                "max_level": 17,
                 "species": "SPECIES_ZANGOOSE"
               },
               {
-                "min_level": 17,
+                "min_level": 15,
                 "max_level": 17,
+                "species": "SPECIES_SEVIPER"
+              },
+              {
+                "min_level": 15,
+                "max_level": 17,
+                "species": "SPECIES_ZANGOOSE"
+              },
+              {
+                "min_level": 16,
+                "max_level": 18,
                 "species": "SPECIES_LOMBRE"
               },
               {
@@ -1392,7 +1392,7 @@
             "mons": [
               {
                 "min_level": 13,
-                "max_level": 13,
+                "max_level": 14,
                 "species": "SPECIES_POOCHYENA"
               },
               {
@@ -4415,42 +4415,42 @@
             "mons": [
               {
                 "min_level": 27,
-                "max_level": 27,
+                "max_level": 29,
                 "species": "SPECIES_SHUPPET"
               },
               {
                 "min_level": 27,
-                "max_level": 27,
+                "max_level": 29,
                 "species": "SPECIES_SHUPPET"
               },
               {
-                "min_level": 28,
-                "max_level": 28,
-                "species": "SPECIES_MEDITITE"
-              },
-              {
-                "min_level": 29,
-                "max_level": 29,
-                "species": "SPECIES_MEDITITE"
-              },
-              {
-                "min_level": 29,
+                "min_level": 27,
                 "max_level": 29,
                 "species": "SPECIES_MEDITITE"
               },
               {
                 "min_level": 27,
-                "max_level": 27,
-                "species": "SPECIES_VULPIX"
+                "max_level": 29,
+                "species": "SPECIES_MEDITITE"
               },
               {
-                "min_level": 29,
+                "min_level": 27,
+                "max_level": 29,
+                "species": "SPECIES_MEDITITE"
+              },
+              {
+                "min_level": 25,
                 "max_level": 29,
                 "species": "SPECIES_VULPIX"
               },
               {
                 "min_level": 25,
-                "max_level": 25,
+                "max_level": 29,
+                "species": "SPECIES_VULPIX"
+              },
+              {
+                "min_level": 25,
+                "max_level": 29,
                 "species": "SPECIES_VULPIX"
               },
               {
